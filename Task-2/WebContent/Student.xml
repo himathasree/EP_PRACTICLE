@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students_info SYSTEM "task2.dtd">
+<students_info>
+	<student sid="a">
+		<regno>190010</regno>
+		<name>Himatha</name>
+		<avg>95</avg>
+		<dob>08-11-2001</dob>
+		<time>9:00</time>
+		<mobileno>7649984900</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student sid="b">
+		<regno>190020</regno>
+		<name>Siri</name>
+		<avg>90</avg>
+		<dob>11-08-1990</dob>
+		<time>9:15</time>
+		<mobileno>6876543201</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student sid="c">
+		<regno>190030</regno>
+		<name>Karina</name>
+		<avg>95</avg>
+		<dob>29-06-2002</dob>
+		<time>9:30</time>
+		<mobileno>8887654321</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student sid="d">
+		<regno>190040</regno>
+		<name>Pratheek</name>
+		<avg>93</avg>
+		<dob>16-01-1973</dob>
+		<time>9:30</time>
+		<mobileno>7849984908</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student sid="e">
+		<regno>190050</regno>
+		<name>Rani</name>
+		<avg>91</avg>
+		<dob>16-12-2000</dob>
+		<time>2:30</time>
+		<mobileno>9846734902</mobileno>
+		<distinction>YES</distinction>
+	</student>
+</students_info>
